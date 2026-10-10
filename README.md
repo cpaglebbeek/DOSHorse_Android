@@ -35,4 +35,4 @@ Pool-bron: `Meta_DOSHorse/CLAUDE.md`.
 
 ## Deploy
 
-APK in `releases/` + GitHub Releases + `horsecloud55.ddns.net/DOSHorse/downloads/android/`. Mogelijk later F-Droid (GPL-friendly).
+APK in `releases/` + GitHub Releases + `icthorsecloud.nl/DOSHorse/downloads/android/`. Mogelijk later F-Droid (GPL-friendly).
